@@ -1,0 +1,7 @@
+.DS_Store
+.gatsby-context.js
+node_modules
+npm-debug.log
+pages/_searchIndex.json
+public/_searchIndex.json
+public
